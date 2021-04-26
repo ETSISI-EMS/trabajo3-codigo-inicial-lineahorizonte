@@ -5,7 +5,7 @@
 | Badge         | Team        |          
 | ------------- |-------------| 
 | IWM31                       | 
-[![BCH compliance](https://bettercodehub.com/edge/badge/iregm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) | iwm31-10 |
+[![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-ems2021-iwm31-equipo11?branch=master&token=a15eeeed5849b3501b13d71e95564e4f2029c6a7)](https://bettercodehub.com/)| iwm31-10 |
 
 | ------------- |-------------| 
 | IWM32                       |
