@@ -5,7 +5,7 @@
 | Badge         | Team        |          
 | ------------- |-------------| 
 | IWM31                       | 
-| ------------- |-------------| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/andreatorrese/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) |Equipo02| 
 | IWM32                       |
 | ------------- |-------------| 
 | IWT31                       |
