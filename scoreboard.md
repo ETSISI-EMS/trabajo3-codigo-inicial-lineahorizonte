@@ -5,7 +5,7 @@
 | Badge         | Team        |          
 | ------------- |-------------| 
 | IWM31                       | 
-[![BCH compliance](https://bettercodehub.com/edge/badge/iregm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) | iwm31-10 
+[![BCH compliance](https://bettercodehub.com/edge/badge/iregm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) | iwm31-10 |
 
 | ------------- |-------------| 
 | IWM32                       |
